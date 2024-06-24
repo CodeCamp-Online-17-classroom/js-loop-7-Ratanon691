@@ -24,3 +24,4 @@
   console.log(findPrimeNumbers(1, 10)); // Output: [2, 3, 5, 7]
   console.log(findPrimeNumbers(15, 17)); // Output: [17]"
 ```
+Rattanon Tunwittaya
